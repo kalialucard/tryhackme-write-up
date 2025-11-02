@@ -1,0 +1,12 @@
+# common
+.DS_Store
+*.swp
+__pycache__/
+.env
+
+# large assets (handled by git-lfs if used)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
